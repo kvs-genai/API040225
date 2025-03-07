@@ -1,0 +1,25 @@
+streamlit
+validators
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+youtube_transcript_api
+pytube
+unstructured
+faiss-cpu
+openai
+tiktoken
+chromadb
+langchain_ollama
+
+#llama Index
+
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-gemini
+google-generativeai
+
+#Funciton Calling
+
+requests
